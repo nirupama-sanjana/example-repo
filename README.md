@@ -1,3 +1,3 @@
 # example repository
-Hello coders, This is a sample repo.
+Hello coders, This is a sample repo.\n
  This is the Second change
